@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+dist/
+build/
+*.egg-info/
+.eggs/
+*.so
+.venv/
+venv/
+.env
+.DS_Store
+*.log
+benchmark_results/
+checkpoints/
